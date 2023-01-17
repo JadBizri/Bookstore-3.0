@@ -1,0 +1,10 @@
+type,title,price,numInStock,author/artist,year
+book,Harry Potter and the Sorcerer's Stone,19.99,4,J.K. Rowling,1997
+book,Harry Potter and the Chamber of Secrets,19.99,10,J.K. Rowling,1998
+book,Harry Potter and the Prisoner of Azkaban,19.99,11,J.K. Rowling,1999
+cd,Star Wars (Soundtrack),11.99,1,John Williams,1977
+cd,Star Wars: The Force Awakens (Album),11.99,2,John Williams,2015
+cd,Thriller (Album),11.99,2,Michael Jackson,1982
+dvd,Jurassic World: Dominion,14.99,9,Colin Trevorrow,2022
+dvd,Top Gun: Maverick,14.99,4,Joseph Kosinski,2022
+dvd,Minions: The Rise of Gru,14.99,1,Kyle Balda,2022

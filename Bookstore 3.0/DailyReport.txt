@@ -1,0 +1,14 @@
+Daily Report:
+
+Sales:
+	Books Sold:	0
+	CDs Sold:	2
+	DVDs Sold:	0
+
+	Total Sales:	2
+	Total Revenue:	$23.98
+
+
+Memberships:
+	Newly registered regular members:	0
+	Newly registered premium members:	0
