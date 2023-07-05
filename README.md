@@ -4,8 +4,9 @@ Another update to the bookstore management system where anything that is done is
 CONTENTS OF THIS FILE
 ---------------------
 
- * [Introduction](#introduction)
- * Requirements
+ * [Introduction](#INTRODUCTION)
+ * [Requirements](#REQUIREMENTS)
+ * [Usage](#USAGE)
 
 
 INTRODUCTION
@@ -22,3 +23,7 @@ REQUIREMENTS
 
 - JDK
 - JAVA IDE
+
+Usage
+------------
+Download the source code and open it in an IDE.
